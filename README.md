@@ -1,5 +1,1 @@
-H   H  EEEEE  L      L       OOO  
-H   H  E      L      L      O   O 
-HHHHH  EEEE   L      L      O   O 
-H   H  E      L      L      O   O 
-H   H  EEEEE  LLLLL  LLLLL   OOO  
+'\nH   H  EEEEE  L      L       OOO  \nH   H  E      L      L      O   O \nHHHHH  EEEE   L      L      O   O \nH   H  E      L      L      O   O \nH   H  EEEEE  LLLLL  LLLLL   OOO  \n'
